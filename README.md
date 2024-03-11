@@ -1,13 +1,11 @@
 # Heyy 👋, I'm Ankur!
-
+<img align="right" src="https://c.tenor.com/Ojl5HSvwX6QAAAAC/tenor.gif" />
 I'm currently a Programmer Analyst in Cognizant Technology Solutions who can analyze data and create Dashboards out of it.
 apart from that i can build mobile applications with a deep knowledge of UI/UX design principles.
 I enjoy playing and tinkering with data to make sense out of it.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ankursharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankurpowerbi) 
-
-<img align="right" src="https://c.tenor.com/Ojl5HSvwX6QAAAAC/tenor.gif" />
 
 ## About Me
 👩‍💻 I'm currently utilizing data for Investigation, typically a Programmer Analyst in Cognizant
