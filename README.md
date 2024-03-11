@@ -10,8 +10,6 @@ I enjoy playing and tinkering with data to make sense out of it.
 
 <img align="right" src="https://c.tenor.com/Ojl5HSvwX6QAAAAC/tenor.gif" />
 
-![doggo](https://c.tenor.com/Ojl5HSvwX6QAAAAC/tenor.gif)
-
 ## About Me
 👩‍💻 I'm currently utilizing data for Investigation, typically a Programmer Analyst in Cognizant
 
