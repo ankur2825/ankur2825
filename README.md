@@ -7,6 +7,11 @@ I enjoy playing and tinkering with data to make sense out of it.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ankursharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankurpowerbi) 
 
+ [![Email(https://img.shields.io/badge/gmail-%ffffff.svg?logo=gmail&logoColor=red)](mailto:ankur.2825@gmail.com) 
+
+<a href="mailto:ankur.2825@gmail.com">Email me</a>
+
+
 <img align="right" src="https://c.tenor.com/Ojl5HSvwX6QAAAAC/tenor.gif" />
 
 ## About Me
@@ -20,7 +25,7 @@ I enjoy playing and tinkering with data to make sense out of it.
 
 💬 Ping me about data science, cars and Financial Stuffs like Stock, Mutual Funds and other Investment Instruments
 
-📙 Check out my resume.
+📙 Check out my <a href="https://drive.google.com/file/d/1BGiPeIVZJ9qCOpUzIr_JupKjh3kjPVSi/view?usp=sharing">Resume</a> .
 
 ⚡️ Fun fact: Cars 🚗, Computers 👨‍💻 and Finance 💰
 
