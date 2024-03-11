@@ -1,6 +1,5 @@
 # Heyy 👋, I'm Ankur!
 
-## Welcome to my Github Profile
 I'm currently a Programmer Analyst in Cognizant Technology Solutions who can analyze data and create Dashboards out of it.
 apart from that i can build mobile applications with a deep knowledge of UI/UX design principles.
 I enjoy playing and tinkering with data to make sense out of it.
