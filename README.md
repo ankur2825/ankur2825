@@ -1,3 +1,9 @@
+# Heyy 👋, I'm Ankur!
+
+## Welcome to my Github Profile
+I'm currently a Programmer Analyst in Cognizant Technology Solutions. I can analyze data and create Dashboards out of it and can build mobile applications with a deep knowledge of UI/UX design principles. 
+I enjoy playing and tinkering with data to make sense out of it.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ankursharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankurpowerbi) 
