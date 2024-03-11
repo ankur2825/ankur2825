@@ -8,7 +8,8 @@ I enjoy playing and tinkering with data to make sense out of it.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ankursharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankurpowerbi) 
 
-<img align="right" src="(https://c.tenor.com/Ojl5HSvwX6QAAAAC/tenor.gif)" />
+<img align="right" src="https://c.tenor.com/Ojl5HSvwX6QAAAAC/tenor.gif" />
+
 ![doggo](https://c.tenor.com/Ojl5HSvwX6QAAAAC/tenor.gif)
 
 ## About Me
