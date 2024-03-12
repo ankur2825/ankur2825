@@ -16,7 +16,7 @@ I enjoy playing and tinkering with data to make sense out of it.
 
 
 ## About Me
-<img align="right" alt="coding" src="https://c.tenor.com/kSiC-0wGr4kAAAAd/tenor.gif" />
+<img align="right" width = 350 alt="coding" src="https://c.tenor.com/kSiC-0wGr4kAAAAd/tenor.gif" />
 👩‍💻 I'm currently utilizing data for Investigation, typically a Programmer Analyst in Cognizant
 
 
