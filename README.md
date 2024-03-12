@@ -19,6 +19,7 @@ I enjoy playing and tinkering with data to make sense out of it.
 <img align="right" alt="coding" src="https://c.tenor.com/kSiC-0wGr4kAAAAd/tenor.gif" />
 👩‍💻 I'm currently utilizing data for Investigation, typically a Programmer Analyst in Cognizant
 
+
 📖 I’ve graduated with a Bachelor's degree in Information Technology from Bharati Vidyapeeth's College of Engineering, Delhi.
 
 🧠 used Data Visualisation tools like Power BI, Tableau to find valuable insights from raw data
