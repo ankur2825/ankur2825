@@ -1,5 +1,5 @@
 # Heyy 👋, I'm Ankur!
-<img align="right" src="https://c.tenor.com/Ojl5HSvwX6QAAAAC/tenor.gif" />
+<img align="right" alt="coding" width= 400 src="https://c.tenor.com/Ojl5HSvwX6QAAAAC/tenor.gif" />
 I'm currently a Programmer Analyst in Cognizant Technology Solutions who can analyze data and create Dashboards out of it.
 apart from that i can build mobile applications with a deep knowledge of UI/UX design principles.
 I enjoy playing and tinkering with data to make sense out of it.
