@@ -1,4 +1,4 @@
-<img align="center" alt="coding" height = 250 width = 1000 src="https://c.tenor.com/smAGwML_ZYsAAAAC/tenor.gif" />
+<img align="center" alt="coding" height = 150 width = 10000 src="https://c.tenor.com/smAGwML_ZYsAAAAC/tenor.gif" />
 
 <h1 align="center">Heyy 👋, I'm Ankur Sharma </h1>
 
