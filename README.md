@@ -1,13 +1,22 @@
-# Heyy 👋, I'm Ankur!
-<!--- <img align="right" alt="coding" height = 185 src="https://c.tenor.com/kSiC-0wGr4kAAAAd/tenor.gif" />--->
+<img align="center" alt="coding" height = 250 width = 1000 src="https://c.tenor.com/smAGwML_ZYsAAAAC/tenor.gif" />
+
+<h1 align="center">Heyy 👋, I'm Ankur Sharma </h1>
+
+
+
+
 I'm currently a Programmer Analyst in Cognizant Technology Solutions who can analyze data and create Dashboards out of it.
 apart from that i can build mobile applications with a deep knowledge of UI/UX design principles.
 I enjoy playing and tinkering with data to make sense out of it.
 
 
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ankursharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankurpowerbi) 
 
+
+
 ## About Me
+<img align="right" alt="coding" src="https://c.tenor.com/kSiC-0wGr4kAAAAd/tenor.gif" />
 👩‍💻 I'm currently utilizing data for Investigation, typically a Programmer Analyst in Cognizant
 
 📖 I’ve graduated with a Bachelor's degree in Information Technology from Bharati Vidyapeeth's College of Engineering, Delhi.
