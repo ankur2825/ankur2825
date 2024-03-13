@@ -1,5 +1,5 @@
-<img align="center" alt="coding" height = 150 width = 10000 src="https://c.tenor.com/smAGwML_ZYsAAAAC/tenor.gif" />
 
+<img align="center" alt="coding" height = 130 width= 5000  src="https://c.tenor.com/smAGwML_ZYsAAAAC/tenor.gif" />
 <h1 align="center">Heyy 👋, I'm Ankur Sharma </h1>
 
 
@@ -16,6 +16,7 @@ I enjoy playing and tinkering with data to make sense out of it.
 
 
 ## About Me
+<img align="right" width = 350 alt="coding" src="https://c.tenor.com/kSiC-0wGr4kAAAAd/tenor.gif" />
 
 👩‍💻 I'm currently utilizing data for Investigation, typically a Programmer Analyst in Cognizant
 
