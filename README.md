@@ -18,14 +18,14 @@ I enjoy playing and tinkering with data to make sense out of it.
 ## About Me
 <img align="right" width = 350 alt="coding" src="https://c.tenor.com/kSiC-0wGr4kAAAAd/tenor.gif" />
 
-👩‍💻 I'm currently utilizing data for Investigation, typically a Programmer Analyst in Cognizant
+👩‍💻 I'm currently utilizing data for Investigation and Automating Processes, typically a Programmer Analyst in Cognizant
 
 
 📖 I’ve graduated with a Bachelor's degree in Information Technology from Bharati Vidyapeeth's College of Engineering, Delhi.
 
 🧠 used Data Visualisation tools like Power BI, Tableau to find valuable insights from raw data
 
-🤔 Learning about Data Science, Finance and a little bit of cooking 
+🤔 Learning about Data Science, Automation Testing, Finance and a little bit of cooking 
 
 💬 Ping me about data science, cars and Financial Stuffs like Stock, Mutual Funds and other Investment Instruments
 
