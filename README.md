@@ -85,8 +85,6 @@ I enjoy playing and tinkering with data to make sense out of it.
 </div>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ###
@@ -94,6 +92,9 @@ I enjoy playing and tinkering with data to make sense out of it.
 <img src="https://raw.githubusercontent.com/ankur2825/ankur2825/output/snake.svg" alt="Snake animation" />
 
 ###
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ankur2825&icon=4&color=12)](https://visitcount.itsvg.in)
