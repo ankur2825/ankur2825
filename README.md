@@ -10,9 +10,6 @@ apart from that i can build mobile applications with a deep knowledge of UI/UX d
 I enjoy playing and tinkering with data to make sense out of it.
 
 <div align = "left">
-<a href="https://instagram.com/_.ankursharma">
-   <img src="https://cdn.simpleicons.org/instagram/E4405F" style="height:40px";">
-</a>
 
 <a href="https://linkedin.com/in/ankurpowerbi">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height:40px;">
@@ -86,12 +83,6 @@ I enjoy playing and tinkering with data to make sense out of it.
 
 
 
-
-###
-
-<img src="https://raw.githubusercontent.com/ankur2825/ankur2825/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
