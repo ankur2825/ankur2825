@@ -5,7 +5,7 @@
 
 
 
-I'm currently a Programmer Analyst in Cognizant Technology Solutions who can analyze data and create Dashboards out of it.
+I'm currently a Programmer Analyst in Cognizant Technology Solutions who can analyze data and create Dashboards out of it and can perform Automation testing of Web UI.
 apart from that i can build mobile applications with a deep knowledge of UI/UX design principles.
 I enjoy playing and tinkering with data to make sense out of it.
 
@@ -24,13 +24,13 @@ I enjoy playing and tinkering with data to make sense out of it.
 
 📖 I’ve graduated with a Bachelor's degree in Information Technology from Bharati Vidyapeeth's College of Engineering, Delhi.
 
-🧠 used Data Visualisation tools like Power BI, Tableau to find valuable insights from raw data
+🧠 used Data Visualisation tools like Power BI to find valuable insights from raw data
 
 🤔 Learning about Data Science, Automation Testing, Finance and a little bit of cooking 
 
 💬 Ping me about data science, cars and Financial Stuffs like Stock, Mutual Funds and other Investment Instruments
 
-📙 Check out my <a href="https://drive.google.com/file/d/1BGiPeIVZJ9qCOpUzIr_JupKjh3kjPVSi/view?usp=sharing">Resume</a> .
+📙 Check out my <a href="https://drive.google.com/file/d/1vHDMtYqkscaKgVok_FkZQ2PGFbuI4eeT/view?usp=drive_link">Resume</a> .
 
 ⚡️ Fun fact: Cars 🚗, Computers 👨‍💻 and Finance 💰
 
