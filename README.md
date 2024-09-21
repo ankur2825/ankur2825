@@ -30,7 +30,7 @@ I enjoy playing and tinkering with data to make sense out of it.
 
 💬 Ping me about data science, cars and Financial Stuffs like Stock, Mutual Funds and other Investment Instruments
 
-📙 Check out my <a href="https://drive.google.com/drive/folders/1Fd5CSKY_yPvNuBV74ukM4zToBFAy8T63">Resume</a> .
+📙 Check out my <a href="https://drive.google.com/file/d/1c5pbVrlWRDnfOKf-CceeZFEiZWS7Mgrn/view?usp=drive_link">Resume</a> .
 
 ⚡️ Fun fact: Cars 🚗, Computers 👨‍💻 and Finance 💰
 
