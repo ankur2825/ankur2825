@@ -5,7 +5,7 @@
 
 
 
-I'm currently a Programmer Analyst in Cognizant Technology Solutions who can analyze data and create Dashboards out of it and can perform Automation testing of Web UI.
+I'm currently a Assistant Manager in Kalpataru Projects who can analyze data and create Dashboards out of it and can perform Automation testing of Web UI.
 apart from that i can build mobile applications with a deep knowledge of UI/UX design principles.
 I enjoy playing and tinkering with data to make sense out of it.
 
@@ -19,8 +19,7 @@ I enjoy playing and tinkering with data to make sense out of it.
 # 👨‍💻 About Me
 <img align="right" width = 350 alt="coding" src="https://c.tenor.com/kSiC-0wGr4kAAAAd/tenor.gif" />
 
-👩‍💻 I'm currently utilizing data for Investigation and Automating Processes, typically a Programmer Analyst in Cognizant
-
+👩‍💻 I'm currently utilizing data for Investigation and Automating Processes
 
 📖 I’ve graduated with a Bachelor's degree in Information Technology from Bharati Vidyapeeth's College of Engineering, Delhi.
 
